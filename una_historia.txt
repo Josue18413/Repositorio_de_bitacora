@@ -2,4 +2,4 @@ Hola me llamo Josue
 
 Estoy practicando en git 
 
-Hola mundo
+Hola mundo, me encanta viajar a los paises donde el clima sea muy frio
