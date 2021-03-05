@@ -3,3 +3,5 @@ Hola me llamo Josue
 Estoy practicando en git 
 
 Hola mundo, me encanta viajar a los paises donde el clima sea muy frio
+
+Me gusta la comida Mexicana
